@@ -4,15 +4,6 @@ New and improved shopping cart application
 
 [Live Demo](https://thejonathanxue.github.io/lets-shop-v2/) :point_left:
 
-## Getting started
-
-```
-git clone https://github.com/theJonathanXue/lets-shop-v2.git
-cd lets-shop-v2
-npm install
-npm start
-```
-
 ## Built with
 
 - [React](https://reactjs.org/)
