@@ -1,16 +1,16 @@
-import React from 'react'
-import styled from 'styled-components'
-import { FaGithub } from 'react-icons/fa'
-import { useLocation } from 'react-router-dom'
-import backgroundWave from '../assets/images/background-wave.png'
-import routes from '../constants/routes.json'
+import React from 'react';
+import styled from 'styled-components';
+import { FaGithub } from 'react-icons/fa';
+import { useLocation } from 'react-router-dom';
+import backgroundWave from '../assets/images/background-wave.png';
+import routes from '../constants/routes.json';
 
 const Footer = () => {
-  const location = useLocation()
+  const location = useLocation();
 
   return (
     <FooterWrapper>
-      Copyright © 2021 theJonathanXue
+      Copyright © 2023 theJonathanXue
       <GithubLink
         href="https://github.com/theJonathanXue"
         target="_blank"
@@ -22,8 +22,8 @@ const Footer = () => {
         <BackgroundWave src={backgroundWave} alt="background image" />
       )}
     </FooterWrapper>
-  )
-}
+  );
+};
 
 const FooterWrapper = styled.footer`
   position: absolute;
@@ -35,7 +35,7 @@ const FooterWrapper = styled.footer`
   width: 100%;
   padding: 1rem 0;
   font-size: 2rem;
-`
+`;
 
 const GithubLink = styled.a`
   display: flex;
@@ -47,12 +47,12 @@ const GithubLink = styled.a`
   &:hover {
     transform: scale(1.2);
   }
-`
+`;
 const BackgroundWave = styled.img`
   position: absolute;
   bottom: 0;
   left: 0;
   z-index: -100;
-`
+`;
 
-export default Footer
+export default Footer;

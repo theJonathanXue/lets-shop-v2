@@ -41,7 +41,7 @@ const Contact = () => {
         </SocialLink>
       </SocialMedia>
       <ContactInfo>
-        <p>LetsShop</p>
+        <p>Lets Shop</p>
         <p>Rodeo Drive 42, Los Angeles USA</p>
       </ContactInfo>
     </ContactWrapper>
