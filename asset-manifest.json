@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/lets-shop-v2/static/js/main.1516d425.chunk.js",
+    "main.js.map": "/lets-shop-v2/static/js/main.1516d425.chunk.js.map",
+    "runtime-main.js": "/lets-shop-v2/static/js/runtime-main.a1462951.js",
+    "runtime-main.js.map": "/lets-shop-v2/static/js/runtime-main.a1462951.js.map",
+    "static/js/2.a4d9ec46.chunk.js": "/lets-shop-v2/static/js/2.a4d9ec46.chunk.js",
+    "static/js/2.a4d9ec46.chunk.js.map": "/lets-shop-v2/static/js/2.a4d9ec46.chunk.js.map",
+    "index.html": "/lets-shop-v2/index.html",
+    "static/js/2.a4d9ec46.chunk.js.LICENSE.txt": "/lets-shop-v2/static/js/2.a4d9ec46.chunk.js.LICENSE.txt",
+    "static/media/background-wave.4d168b80.png": "/lets-shop-v2/static/media/background-wave.4d168b80.png",
+    "static/media/homepage-image.bd89f8b3.png": "/lets-shop-v2/static/media/homepage-image.bd89f8b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1462951.js",
+    "static/js/2.a4d9ec46.chunk.js",
+    "static/js/main.1516d425.chunk.js"
+  ]
+}
