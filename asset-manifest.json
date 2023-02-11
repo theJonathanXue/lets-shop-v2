@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/lets-shop-v2/static/js/main.1516d425.chunk.js",
-    "main.js.map": "/lets-shop-v2/static/js/main.1516d425.chunk.js.map",
+    "main.js": "/lets-shop-v2/static/js/main.f62356ce.chunk.js",
+    "main.js.map": "/lets-shop-v2/static/js/main.f62356ce.chunk.js.map",
     "runtime-main.js": "/lets-shop-v2/static/js/runtime-main.a1462951.js",
     "runtime-main.js.map": "/lets-shop-v2/static/js/runtime-main.a1462951.js.map",
     "static/js/2.a4d9ec46.chunk.js": "/lets-shop-v2/static/js/2.a4d9ec46.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.a1462951.js",
     "static/js/2.a4d9ec46.chunk.js",
-    "static/js/main.1516d425.chunk.js"
+    "static/js/main.f62356ce.chunk.js"
   ]
 }
